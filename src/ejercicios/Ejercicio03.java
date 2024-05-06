@@ -1,9 +1,9 @@
-package Tema07_Collections.ejercicios;
+package ejercicios;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class ejercicio03 {
+public class Ejercicio03 {
 
     public static void main(String[] args) {
         

@@ -1,4 +1,4 @@
-package Tema07_Collections.ejercicios;
+package ejercicios;
 
 
 import java.util.LinkedHashSet;
